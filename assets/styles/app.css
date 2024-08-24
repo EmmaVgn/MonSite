@@ -1,3 +1,28 @@
+/*--------------------------------------------------------------
+# Général
+--------------------------------------------------------------*/
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
 body {
-    background-color: skyblue;
+  font-family: "Raleway", serif;
+  position: relative;
+  height: 100%;
+  text-decoration: none;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Playfair Display", serif;
 }
